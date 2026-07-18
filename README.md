@@ -31,3 +31,6 @@ Este proyecto fue desarrollado con el propósito de profundizar en el desarrollo
 10. **Selección de preferencias de contenido.**
 11. **Almacenamiento de información mediante SQLite.**
 12. **Protección de contraseñas utilizando funciones de hash.**
+
+## 👨‍💻 Autor
+Karma Sei
